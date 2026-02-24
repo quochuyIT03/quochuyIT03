@@ -28,11 +28,16 @@
 
 
 ## 🤝 Connect with Me
-<p align="center">
-  <img src="https://www.instagram.com/yuhcouq_2103/" />
-  <img src="https://www.facebook.com/ThienTon3102/" />
-  <img src="www.linkedin.com/in/nguyenquochuy3102" />
+<p align="left">
+  <a href="www.linkedin.com/in/nguyenquochuy3102">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://www.facebook.com/ThienTon3102">
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-
+  <a href="https://www.instagram.com/yuhcouq_2103/">
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
