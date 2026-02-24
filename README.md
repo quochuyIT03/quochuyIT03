@@ -27,7 +27,12 @@
 ---
 
 
-## 🔥 Most Used Languages
+## 🤝 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quochuyIT03&layout=compact&theme=tokyonight" />
+  <img src="https://www.instagram.com/yuhcouq_2103/" />
+  <img src="https://www.facebook.com/ThienTon3102/" />
+  <img src="www.linkedin.com/in/nguyenquochuy3102" />
+
+
+
 </p>
