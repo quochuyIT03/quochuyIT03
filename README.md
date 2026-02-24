@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Nguyen Quoc Huy</h1>
-<h3 align="center">🚀 Web Developer | React Learner</h3>
-
+<h1 align="center">👋 Hi, I'm Nguyen Quoc Huy</h1><h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=🚀Fresher+Web+Developer;⚛️+React+Learner;💻+Future+Fullstack+Developer" />
+</h3>
 ---
 
 ## 🚀 About Me
