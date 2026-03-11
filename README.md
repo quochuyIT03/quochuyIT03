@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **React & Node.js**
 - 💻 Love building web applications
-- 🎯 Goal: Become a Fullstack Developer
+- 🎯 Goal: Become a Full-stack Developer
 - 📍 Ho Chi Minh City, Vietnam
 - 🇬🇧 English Level: **B1 (Intermediate)**
 
